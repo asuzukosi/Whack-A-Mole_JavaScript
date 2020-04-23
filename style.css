@@ -1,0 +1,27 @@
+h1{
+  color:red;
+}
+
+#grid{
+  height: 900px;
+  width: 900px;
+  background-color: blue;
+  display: flex;
+  flex-wrap: wrap;
+}
+.box{
+  height: 297px;
+  width: 297px;
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
+.mole{
+  height: 297px;
+  width: 297px;
+  background-color: brown;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
